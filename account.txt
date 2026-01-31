@@ -1,2 +1,94 @@
-Add Your Facebook Account Cookies
+[
+	{
+		"key": "sb",
+		"value": "fox7aQOaSPHoI9l8kWBzirqa",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.698Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B646x360x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "datr",
+		"value": "nJN7aXVzppV0rvhrBYZ7p6Ou",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61585615109300",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "xs",
+		"value": "12%3AcUGIN0xkHTb7HA%3A2%3A1769706496%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "pas",
+		"value": "61585615109300%3Aw0L9ZWW2bX",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "fr",
+		"value": "0vbK6rDargHdxPJy2.AWd4jGSZNC0PCsDvRObRKD2yDF64HurccFgkMY5bejfh2_EQFSo.Bpe4x-..AAA.0.0.BpfeFA.AWdTc8u9ukV7U_oi7jEYNQBLSFY",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "100424444%3BT%3A29497622",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3070%3Btimestamp%3A1769857345",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-01-31T11:02:42.699Z",
+		"lastAccessed": "2026-01-31T11:02:42.699Z"
+	}
+]
+
 
